@@ -1,24 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/action/revert?type=waving&color=gradient&width=1000&height=200&section=header&text=Laura%20Kayamori&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Gen%20Z-Aesthetic-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Future-Engineer-blueviolet?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative-Developer-00d1b2?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <br/><br/>
-</div>
 
----
-
-### 💫 Sobre Mim `(she/her)`
+### 💫 sobre mim: 
 
 Olá! Sou a **Laura**, uma estudante de **Engenharia de Sistemas e TI** na Universidade do Algarve 🌊. Sou viciada em transformar café em código e ideias em realidade. No meu mundo, a tecnologia encontra o design para criar experiências incríveis!
 
 - 🎓 Atualmente a navegar pelos mares da computação móvel.
 - 🎨 Apaixonada por interfaces que fazem os olhos brilhar.
-- 🛠️ Nas horas vagas, planeio o meu próximo mini PC build.
+- 🛠️ Nas horas vagas(pouquissimas), planeio o meu próximo mini PC build(sou vitima das trends).
 
 ---
 
