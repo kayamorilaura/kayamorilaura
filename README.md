@@ -1,30 +1,68 @@
-# Olá, eu sou a Laura Kayamori! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/action/revert?type=waving&color=gradient&width=1000&height=200&section=header&text=Laura%20Kayamori&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-Sou uma entusiasta da tecnologia com paixão por desenvolver soluções inovadoras e aprender continuamente. Atualmente, estou a aprofundar os meus conhecimentos em Engenharia de Sistemas e Tecnologias de Informação, com foco em desenvolvimento móvel e sistemas digitais.
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Gen%20Z-Aesthetic-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Future-Engineer-blueviolet?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative-Developer-00d1b2?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br/><br/>
+</div>
 
-## 🚀 Projetos Atuais
+---
 
-Aqui estão alguns dos projetos em que tenho trabalhado:
+### 💫 Sobre Mim `(she/her)`
 
-*   **Calculadora FLET:** Um projeto de calculadora, demonstrando habilidades em desenvolvimento de interfaces e lógica de programação.
-*   **Chat Multimédia FLUTTER:** Uma aplicação de chat robusta desenvolvida em Flutter, com capacidades multimédia, explorando o poder do Dart para criar experiências de utilizador ricas.
-*   **APP DE TURISMO DO ALGARVE (em desenvolvimento):** Uma aplicação móvel em Dart dedicada a promover o turismo na região do Algarve, atualmente em fase de desenvolvimento.
+Olá! Sou a **Laura**, uma estudante de **Engenharia de Sistemas e TI** na Universidade do Algarve 🌊. Sou viciada em transformar café em código e ideias em realidade. No meu mundo, a tecnologia encontra o design para criar experiências incríveis!
 
-## 💡 Projetos Futuros e Interesses
+- 🎓 Atualmente a navegar pelos mares da computação móvel.
+- 🎨 Apaixonada por interfaces que fazem os olhos brilhar.
+- 🛠️ Nas horas vagas, planeio o meu próximo mini PC build.
 
-Estou sempre à procura de novos desafios e ideias para explorar. Os meus próximos passos incluem:
+---
 
-*   **CLIP VAULT:** Uma aplicação para ajudar estudantes a organizar fotos de quadros, focando na utilidade e eficiência para o ambiente académico.
-*   **Sistemas Digitais:** Aprofundar o estudo e a aplicação de conceitos em sistemas digitais.
-*   **Mini PC Build:** Entrar na tendência de construir um mini PC personalizado, combinando hardware e software de forma criativa.
+### 🚀 O que estou a "cozinhar"...
 
-## 🛠️ Tecnologias e Ferramentas
+| Projeto | Vibe | Tech |
+| :--- | :--- | :--- |
+| **Chat Multimédia** | 💬 Connect & Share | Flutter + Dart |
+| **Turismo Algarve** | 🏖️ Summer Vibes | Dart (Em Dev) |
+| **Calculadora Flet** | 🧮 Logic & Style | Python + Flet |
+| **Clip Vault** | 📸 Study Smarter | *Coming Soon* |
 
-*   **Linguagens:** Dart, Python (inferido do GitHub)
-*   **Frameworks/Bibliotecas:** Flutter
-*   **Outros:** Sistemas Digitais, Desenvolvimento Móvel
+---
 
-## Conecta-te comigo!
+### 🛠️ My Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayamorilaura)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayamorilaura)
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Platform-0078D4?style=for-the-badge&logo=microsoft-power-platform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🌈 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kayamorilaura">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kayamorilaura">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayamorilaura&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamorilaura&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/action/revert?type=waving&color=gradient&width=1000&height=100&section=footer" width="100%"/>
+</div>
