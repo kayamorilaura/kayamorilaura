@@ -2,7 +2,8 @@
 
 ### 💫 sobre mim: 
 
-Olá! Sou a **Laura**, uma estudante de **Engenharia de Sistemas e TI** na Universidade do Algarve 🌊. Sou viciada em transformar café em código e ideias em realidade. No meu mundo, a tecnologia encontra o design para criar experiências incríveis!
+Olá! Sou a **Laura**, uma estudante de **Engenharia de Sistemas e TI** na Universidade do Algarve 🌊.
+
 
 - 🎓 Atualmente a navegar pelos mares da computação móvel.
 - 🎨 Apaixonada por interfaces que fazem os olhos brilhar.
