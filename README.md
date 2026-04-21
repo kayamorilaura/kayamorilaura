@@ -4,11 +4,6 @@
 
 Olá! Sou a **Laura**, uma estudante de **Engenharia de Sistemas e TI** na Universidade do Algarve 🌊.
 
-
-- 🎓 Atualmente a navegar pelos mares da computação móvel.
-- 🎨 Apaixonada por interfaces que fazem os olhos brilhar.
-- 🛠️ Nas horas vagas(pouquissimas), planeio o meu próximo mini PC build(sou vitima das trends).
-
 ---
 
 ### 🚀 O que estou a "cozinhar"...
