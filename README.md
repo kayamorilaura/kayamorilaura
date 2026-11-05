@@ -24,7 +24,7 @@ The showcase uses synthetic data and does not contain client code or integration
 ### Background
 
 At **Metyis**, I worked on business intelligence with SQL and Power BI.  
-For **MTPHomes**, I independently built an AI-assisted automation system integrating APIs, workflows, browser tools and error recovery (Above ☝️).
+For **MTPHomes**, I independently built an AI-assisted automation system integrating APIs, workflows, browser tools and error recovery (☝️).
 
 I'm also a little **Notion-obsessed** — I enjoy turning messy processes into organized, useful systems.
 
