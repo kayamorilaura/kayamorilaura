@@ -8,7 +8,7 @@ I build software that connects systems and makes repetitive work easier. My curr
 
 - **Automation & integrations** — n8n, JavaScript, REST APIs, workflow validation and error recovery
 - **Software engineering** — TypeScript, React, Next.js and Python
-- **Data** — SQL, Power BI and reporting
+- **Data** — SQL, Power BI, Notion and reporting *(yes, Notion counts as data too — flexible, customizable, and made for connecting the dots)*
 - **Self-hosting & remote access** — Docker, Tailscale and remote access to my own automation environment
 
 ### Selected work
