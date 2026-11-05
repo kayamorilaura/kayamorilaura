@@ -1,3 +1,5 @@
+# Less manual work, more useful software.
+
 Computer Systems and Information Technology Engineering student at the University of Algarve, based in Faro, Portugal.
 
 I build software that connects systems and makes repetitive work easier. My current focus is **automation and AI-assisted workflows**, with a broader background in software development and data.
@@ -22,7 +24,7 @@ The showcase uses synthetic data and does not contain client code or integration
 ### Background
 
 At **Metyis**, I worked on business intelligence with SQL and Power BI.  
-For a **short-term rental business**, I independently built an AI-assisted automation system connecting APIs, browser tools and resilient workflows. [See a synthetic demo](https://github.com/kayamorilaura/automation-workflow-showcase).
+At **MTPHomes**, I independently developed AI-assisted automations for internal processes, connecting n8n, APIs and browser tools with validation and error recovery. [Synthetic demo](https://github.com/kayamorilaura/automation-workflow-showcase).
 
 I'm also a little **Notion-obsessed** — I enjoy turning messy processes into organized, useful systems.
 
