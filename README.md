@@ -23,7 +23,11 @@ The showcase uses synthetic data and does not contain client code or integration
 
 ### Background
 
-I'm studying Computer Systems and Information Technology Engineering at the **University of Algarve**. I've worked on business intelligence at **Metyis**, IT tools and operational automation projects.
+I'm studying Computer Systems and Information Technology Engineering at the **University of Algarve**. At **Metyis**, I worked on business intelligence, SQL and reporting.
+
+For **MTPHomes**, I was the **sole developer** of an AI-assisted property-listing automation project. I took ownership of the technical work — from designing workflows and connecting services through APIs to building JavaScript/browser tools, processing multilingual listing and photo content, and implementing validation and error recovery. It started with a real operational problem, and I built practical solutions around it.
+
+The client implementation stays private; my [public showcase](https://github.com/kayamorilaura/automation-workflow-showcase) demonstrates the engineering patterns using fictional data.
 
 I'm also a little **Notion-obsessed** — I enjoy turning messy processes into organized, useful systems.
 
