@@ -9,6 +9,7 @@ I build software that connects systems and makes repetitive work easier. My curr
 - **Automation & integrations** — n8n, JavaScript, REST APIs, workflow validation and error recovery
 - **Software engineering** — TypeScript, React, Next.js and Python
 - **Data** — SQL, Power BI and reporting
+- **Self-hosting & remote access** — Docker, Tailscale and remote access to my own automation environment
 
 ### Selected work
 
@@ -20,5 +21,7 @@ The showcase uses synthetic data and does not contain client code or integration
 ### Background
 
 I'm studying Computer Systems and Information Technology Engineering at the **University of Algarve**. I've worked on business intelligence at **Metyis**, IT tools and operational automation projects.
+
+I'm also a little **Notion-obsessed** — I enjoy turning messy processes into organized, useful systems.
 
 [LinkedIn](https://www.linkedin.com/in/kayamorilaura)
