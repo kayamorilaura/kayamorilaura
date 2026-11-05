@@ -22,7 +22,7 @@ The showcase uses synthetic data and does not contain client code or integration
 ### Background
 
 At **Metyis**, I worked on business intelligence with SQL and Power BI.  
-For **MTPHomes**, I independently built an AI-assisted automation system integrating APIs, workflows, browser tools and error recovery (☝️).
+For a **short-term rental business**, I independently built an AI-assisted automation system connecting APIs, browser tools and resilient workflows. [See a synthetic demo](https://github.com/kayamorilaura/automation-workflow-showcase).
 
 I'm also a little **Notion-obsessed** — I enjoy turning messy processes into organized, useful systems.
 
