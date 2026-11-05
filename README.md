@@ -1,5 +1,3 @@
-# Laura Kayamori
-
 Software engineering student based in Faro, Portugal.
 
 I build software that connects systems and makes repetitive work easier. My current focus is **automation and AI-assisted workflows**, with a broader background in software development and data.
